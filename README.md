@@ -1,10 +1,16 @@
 # coffe_brew_crew
 
-A new Flutter project.
+A flutter app made with The Net Ninja playlist with little tweaks (still it is added )
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
+
+## Screen Shots
+
+![Alt text](https://github.com/akshit6/Coffee-Brew-Crew/blob/master/screen_shots/1.png?raw=true "Sign In")
+
+![Alt text](https://github.com/akshit6/Coffee-Brew-Crew/blob/master/screen_shots/3.png?raw=true "Main Screen")
 
 A few resources to get you started if this is your first Flutter project:
 
